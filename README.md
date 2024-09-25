@@ -1,6 +1,12 @@
 
 
 <h1>Multi Store App Customer Side</h1>
+<br>
+
+<div>
+  Created Using Flutter and Firebase for Storing Data and User Authentication. This App Created For Customer only, before using this App User Must Register and Login Just need Some Email and Password andd Fill Some Information about User. After Registering and Login You Can Use This App To Buy Some Product If You Want To Sell Some Product use Supplier Version
+</div>
+<br><br>
 
 
 <div>
@@ -13,6 +19,9 @@
   
 </div>
 
+<br><br>
+
+
 <div>
 
   <img src="https://github.com/user-attachments/assets/d8c0d2bb-70d7-48b0-9e17-1ac26c18244d" width="200" height="350"/>
@@ -21,6 +30,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 <div>
 
@@ -30,6 +41,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 <div>
 
@@ -39,6 +52,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 <div>
 
@@ -49,6 +64,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 
 <div>
@@ -59,6 +76,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 
 <div>
@@ -69,6 +88,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 
 <div>
@@ -79,6 +100,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 <div>
 
@@ -88,6 +111,8 @@
   </p>
   
 </div>
+<br><br>
+
 
 
 <div>
@@ -100,6 +125,9 @@
   
 </div>
 
+<br><br>
+
+
 
 <div>
 
@@ -109,6 +137,9 @@
   </p>
   
 </div>
+
+<br><br>
+
 
 
 <div>
@@ -120,5 +151,8 @@
   </p>
   
 </div>
+
+<br><br>
+
 
 
