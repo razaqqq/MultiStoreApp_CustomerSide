@@ -18,17 +18,17 @@
   <tr>
     <td>1</td>
     <td><img src="https://github.com/user-attachments/assets/6dbb920d-1776-4e43-8ade-d217a29f9527" width="200" height="350" </td>
-    <td>Login Screen Customer Side</td>
+    <td>Login Screen Customer Side, this is login screen. Before you login you must fill up email and password from account you created then you can tap Login Button, you will automically navigate to Home Screen. If you still dont have any Account you can Create a new Account by tapping SignUp Button you will automically navigate to Sign Up Screen</td>
   </tr>
   <tr>
     <td>2</td>
-    <td> <img src="https://github.com/user-attachments/assets/d8c0d2bb-70d7-48b0-9e17-1ac26c18244d" width="200" height="350"/></td>
-    <td>Sign Up Screen Customer Side</td>
+    <td><img src="https://github.com/user-attachments/assets/d8c0d2bb-70d7-48b0-9e17-1ac26c18244d" width="200" height="350"/></td>
+    <td>Sign Up Screen Customer Side, when you dont have an account SignUp in here before SignUp you must fill information about yourself username, email and password when you completed filling the information you can tap on SIgnUp Button to create a new Account</td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="https://github.com/user-attachments/assets/4018a6f4-d4d7-41de-910b-a1f96a89ba52" width="200" height="350"/></td>
-    <td>Home Screen Customer Side</td>
+    <td>Home Screen Customer Side, this is the first page after you login to this app. There are six tab for bottom Bavbar Home, Category, Store, Cart, Profile. Home Tab, in here you can see the first Screen after you login in the App.Category Tab, in here you can see all product srted by category. Store Tab, in here you can see all Store Avaible in this App. Cart Tab, in here you can see all buyed product. Profile Tab, in here you can see all information about yourself</td>
   </tr>
   <tr>
     <td>4</td>
