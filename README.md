@@ -33,7 +33,7 @@
   <tr>
     <td>4</td>
     <td><img src="https://github.com/user-attachments/assets/f5af3f9a-770f-4f29-9e4c-3a28cebd9622" width="200" height="350"/></td>
-    <td>Category Screen Customer Side</td>
+    <td>Category Screen Customer Side, in here you can see all product sorted by category. If you tap on one of the product you wil navigated to ProductDetai Screen</td>
   </tr>
   <tr>
     <td>5</td>
