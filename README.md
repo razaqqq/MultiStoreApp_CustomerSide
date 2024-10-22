@@ -57,13 +57,13 @@
   </tr>
   <tr>
     <td>9</td>
-    <td> <img src="https://github.com/user-attachments/assets/d65b9866-9f80-4880-9c80-2eeb917d5d1b" width="200" height="350"/></td>
-    <td>Profile Detail Screen Customer Side</td>
+    <td><img src="https://github.com/user-attachments/assets/d65b9866-9f80-4880-9c80-2eeb917d5d1b" width="200" height="350"/></td>
+    <td>Profile Detail Screen Customer Side, this ProfileScreen Tab in here you can see all in formation about yourself like username, email address, phone number, and address. There are three button in here Cart, Orders, Whislist. Cart Button if you click or tapping this button you will navigated to TabScreen you whill showed all Product you want to buy. Orders Button if you clicked or tapping this button you will navigated Order Screen it will show all order you received now. Whislist Button if you clicking or tapping this button you will navigated to Whislist Screen it will Show you All Whislist Product you Have. If Yyou want to logout from this app, you can easily logout by tapping LogOut Button</td>
   </tr>
   <tr>
     <td>10</td>
     <td> <img src="https://github.com/user-attachments/assets/c31f2b84-60c6-4245-a857-46f7e5a29532" width="200" height="350"/></td>
-    <td>Cart Screen Customer Side</td>
+    <td>Cart Screen Customer Side, this is Cart Screen you can see All Product you want to Buy in here, if you made up your mind and want to buy this product you tapping CheckOut Button and in here it show all summ total all your product you want to buy in left bottom conner screen</td>
   </tr>
   <tr>
     <td>11</td>
