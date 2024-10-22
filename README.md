@@ -68,12 +68,12 @@
   <tr>
     <td>11</td>
     <td> <img src="https://github.com/user-attachments/assets/a4e77161-5b08-4ca2-967b-c00c8317e0e3" width="200" height="350"/></td>
-    <td>Active Order Screen Customer Side</td>
+    <td>Active Order Screen Customer Side, this Screen you can see all the active orders you have</td>
   </tr>
   <tr>
     <td>12</td>
     <td> <img src="https://github.com/user-attachments/assets/a37599fa-b21a-4045-94e9-0b08f887d464" width="200" height="350"/></td>
-    <td>Whislist Product Screen Customer Side</td>
+    <td>Whislist Product Screen Customer Side, this Screen you can see all whislist you make</td>
   </tr>
 </table>
 
