@@ -38,22 +38,22 @@
   <tr>
     <td>5</td>
     <td><img src="https://github.com/user-attachments/assets/a19b1325-1bc5-44ba-b9ec-3e56faa739e2" width="200" height="350"/></td>
-    <td>Category Product Screen Customer Side</td>
+    <td>Category Product Screen Customer Side, when you in CategoryScreen then click on of the Category Item you will navigated to CategoryProductScreen in here you can see all the product that have Same Category with Category you selected before</td>
   </tr>
   <tr>
     <td>6</td>
     <td> <img src="https://github.com/user-attachments/assets/a0f53d8e-b9a2-4c7f-8535-d777b2d99560" width="200" height="350"/></td>
-    <td>Store Screen Screen Customer Side</td>
+    <td>Store Screen Screen Customer Side, this Store tab it will show all Store that has been registered in this app, and if tapping in one of the store in the list you can see all the information about the store you pick and see all the product provided by that store</td>
   </tr>
   <tr>
     <td>7</td>
     <td><img src="https://github.com/user-attachments/assets/c8cd7c6b-fcc3-41d6-9ef5-590fcbb9288f" width="200" height="350"/></td>
-    <td>Store Detail Screen Customer Side</td>
+    <td>Store Detail Screen Customer Side, in here you can see all the detail in formation of the store you selecting, and see all the product they have. And you can contact the supplier by tapping whatap icon. Its automically savving their contact information in your Whatap Application</td>
   </tr>
   <tr>
     <td>8</td>
     <td><img src="https://github.com/user-attachments/assets/ae55eea4-7a7d-4fc1-9b65-27b53df9876a" width="200" height="350"/></td>
-    <td>Product Detail Screen Customer Side</td>
+    <td>Product Detail Screen Customer Side, this ProductDetailPage Screen it showing all information about product you chose. YOu can see all the cooment about this product to, if you want tu buy thsi product you can tab to AddtoCart Button that will adding this product to your Cart</td>
   </tr>
   <tr>
     <td>9</td>
